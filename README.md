@@ -1,5 +1,5 @@
 # ReinforcementLearning_for_Poker
-Find the Game Theory Optimal (GTO) strategy for a Kuhn poker game
+Find the Game Theory Optimal (GTO) strategy for a Kuhn poker game using C++
 
 ## Kuhn Poker rules:
 Kuhn Poker is a simple 3-card poker game by Harold E. Kuhn [8]. 
